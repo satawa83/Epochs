@@ -1,9 +1,3 @@
-st.title("🌾 Crop Yield Prediction")
-
-st.write("""
-Enter the field and soil characteristics below to estimate the expected crop yield.
-""")
-
 import streamlit as st
 import pandas as pd
 import joblib
