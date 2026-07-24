@@ -223,22 +223,6 @@ An interactive crop recommendation widget was built using `ipywidgets`. The syst
 - Agricultural extension officers can use this system to provide farmers with data-driven advice on crop selection instead of relying only on experience.
 - Government agencies and agricultural organizations can integrate this model into digital farming platforms to support food security planning and improve crop production.
 
-## Other Recommendations
-
-- Improve Data Quality- Future data collection should focus on reducing missing values and implementing validation procedures to minimize inaccurate or unrealistic records. Collecting more observations for underrepresented crop types will also improve model reliability and reduce class imbalance.
-
-- Incorporate Additional Environmental Variables- Future models should integrate factors such as rainfall, temperature, humidity, irrigation practices, fertilizer application, pest and disease occurrence, and geographic location to enhance prediction accuracy.
-
-- Deploy the Random Forest Model- Since the Random Forest model achieved the best predictive performance among all evaluated models, it is recommended as the production model for crop yield prediction applications.
-
-- Prioritize Key Predictive Factors- Farmers and agricultural stakeholders should focus on monitoring and managing the most influential variables identified by the model, including field size, crop type, soil moisture, soil pH, nitrogen, phosphorus, potassium, and organic carbon.
-
-- Develop a Decision Support System- The predictive model should be implemented as a user-friendly web or mobile application that allows users to input field information, receive crop yield predictions, and obtain practical recommendations for improving soil and crop management.
-
-- Provide Action-Oriented Recommendations- Beyond predicting crop yield, future systems should generate personalized recommendations on soil nutrient management, pH adjustment, moisture conservation, and suitable crop selection to support informed farming decisions.
-
-- Enhance Future Research- Further work should investigate prediction errors, develop crop-specific prediction models, incorporate satellite and weather data, validate the model across different regions, and continuously retrain the model using newly collected agricultural data to improve its robustness and generalizability
-
 ---
 
 ## Limitations
